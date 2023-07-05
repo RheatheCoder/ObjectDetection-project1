@@ -1,0 +1,19 @@
+#heading{
+    background-color: white;
+    color: rgb(255, 194, 173);
+    width: 100%;
+    margin: 0;
+    font-size: 28px;
+
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+a{
+    background-color: white;
+    color: rgb(255, 194, 173);
+    font-size: 23px;
+}
